@@ -9,3 +9,4 @@ The module comes with two defualt criteria for a watchlist:
 
 Add new criteria by selecting criteria on https://finviz.com/screener.ashx and adding the url to the module (comments to point out where to do this)
 
+Libraries: Must have BeautifulSoup and cloudscraper installed
